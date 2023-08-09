@@ -3,8 +3,8 @@ Engine Docs
 
 Record of engine maintenance
 ----------------------------
-.. list-table:: Title
-   :widths: 25 25 50
+.. list-table:: maintenance
+   :widths: 25 25 80
    :header-rows: 1
 
    * - Date
