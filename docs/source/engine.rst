@@ -18,6 +18,10 @@ Record of engine maintenance
    * - July 2023
      - Raw water impeller
      - Impeller was included in the new housing W48080
+   * - July 2023
+     - Zinc primer and paint to raw water area
+     - | Cleaned and painted engine block and raw water housing area
+       | that had developed a leak and caused rust.
    * - August 2023
      - Transmission fluid
      - Used Pennzoil Dexron II equivalent ATF fluid
@@ -36,6 +40,8 @@ Record of engine maintenance
        | I also change out the old bypass hose, but it was challenging 
        | since new water pump had larger nipple. I comprimised 
        | and am using a soft-walled tube pressed only the larger nipple.
-
+   * - August 2023
+     - Primary (water seperator) fuel filter replaced
+     - No notes
 Documentation and information about maintenance
 -----------------------------------------------
