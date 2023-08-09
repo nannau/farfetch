@@ -49,17 +49,24 @@ Documentation and information about maintenance
 -----------------------------------------------
 
 .. figure:: images/old_raw_water_area.jpg
+
    This is the old pump that the previous owner was charged for.
    As you can see, there is rust everywhere near the pump. I was sad to see
    how much the previous owner was charged. Also, the "new" pump was, at best,
    a serviced housing from an older pump. The greatest sin of the work was
    that proper brass hose barbs were not used to secure the hoses. Instead
    the hoses were directly attached to threads.  
+
 .. figure:: images/old_pump_removed.jpg
+
    This is the old pump housing. The photo is blurry, but you can see that no
    hose barbs are attached. Where there is green is where the hoses were attached directly
    to the 90 deg elbow and the threaded section. WTF?
+
 .. figure:: images/new_water_pump.PNG 
+
    This is the new pump after paint and proper elbows.
+
 .. figure:: images/new_pump_removed.jpg 
+
    This is the new pump with proper elbows.
