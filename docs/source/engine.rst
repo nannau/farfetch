@@ -13,6 +13,9 @@ Record of engine maintenance
    * - July 2023
      - Sea water pump
      - Replaced old Ancor sea pump with W408080. Docs say ancor pump was serviced in 2016, but quality of work was poor.
+* - July 2023
+     - Raw water impeller
+     - Impeller was included in the new housing W48080
    * - July 2023
      - Transmission fluid
      - Used Pennzoil Dexron II equivalent ATF fluid
