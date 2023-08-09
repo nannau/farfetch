@@ -1,9 +1,4 @@
-Template for the Read the Docs tutorial
+Far Fetch docs
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+This website contains docs for the operation and maintenance of a CS36T -- specifically Far Fetch, a 1983 Canadian Sailcraft 36T.
