@@ -1,4 +1,4 @@
-Far Fetch docs
+Far Fetch Docs
 =======================================
 
 This website contains docs for the operation and maintenance of a CS36T -- Far Fetch, a 1983 Canadian Sailcraft 36T.
@@ -15,5 +15,5 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   engine
+   systems
