@@ -19,3 +19,4 @@ Contents
 
    engine
    systems
+   inventory
