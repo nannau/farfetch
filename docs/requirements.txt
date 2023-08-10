@@ -1,3 +1,2 @@
 sphinx-rtd-theme
-git+git://github.com/SuperKogito/sphinxcontrib-pdfembed
-
+-e git+git://github.com/SuperKogito/sphinxcontrib-pdfembed
